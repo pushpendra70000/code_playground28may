@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "consolas" ;
+    src: url("../fonts/CONSOLA.TTF") format("truetype");
+}
+body{
+    background-color: #E7E9EB;
+}
+.p_wid{
+    width: 200px;
+}
+.p_h{
+    min-height: 600px;
+}
+.p_consolas{
+    font-family: "consolas","courier new",monospace !important;
+}
+.editcontent{
+    outline: none;
+}
+.loader{
+    width: 6rem;
+    height: 6rem;
+    border-width: 0.3em;
+}
